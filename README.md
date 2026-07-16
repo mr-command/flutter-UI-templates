@@ -1,7 +1,7 @@
-╔══════════════════════════════════════════════╗
-          Flutter UI Templates
-     Modern • Responsive • Open Source
-╚══════════════════════════════════════════════╝
+
+# Flutter UI Templates
+## Modern • Responsive • Open Source
+
 
 # Flutter UI Templates
 
