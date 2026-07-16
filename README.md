@@ -1,9 +1,7 @@
 
 # Flutter UI Templates
+
 ## Modern • Responsive • Open Source
-
-
-# Flutter UI Templates
 
 A curated collection of modern Flutter UI templates built for learning, inspiration, and portfolio purposes.
 
