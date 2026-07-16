@@ -13,7 +13,7 @@ Every project is a standalone Flutter application with clean architecture, reusa
 
 | Project | Preview | Repository |
 |---------|---------|------------|
-| AI Chatbot UI | <img src="assets/pic.png" width="180"> | 🔗 https://github.com/mr-command/chatbot_ui |
+| AI Chatbot UI | <img src="assets/pic.png" width="220"> | 🔗 https://github.com/mr-command/chatbot_ui |
 
 
 ---
