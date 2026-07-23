@@ -15,7 +15,7 @@ Every project is a standalone Flutter application with clean architecture, reusa
 |---------|---------|------------|
 | AI Chatbot UI | <img src="assets/pic.png" width="220"> | 🔗 https://github.com/mr-command/chatbot_ui |
 |---------|---------|------------|
-| Login Signup UI | <img src="assets/login.jpeg" width="220"> | 🔗 https://github.com/mr-command/authentication-ui |
+| Login Signup UI | <img src="assets/auth.jpeg" width="220"> | 🔗 https://github.com/mr-command/authentication-ui |
 
 
 ---
