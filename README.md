@@ -11,11 +11,20 @@ Every project is a standalone Flutter application with clean architecture, reusa
 
 ## Projects
 
-| Project | Preview | Repository |
-|---------|---------|------------|
-| AI Chatbot UI | <img src="assets/pic.png" width="220"> | 🔗 https://github.com/mr-command/chatbot_ui |
-|---------|---------|------------|
-| Login Signup UI | <img src="assets/auth.jpeg" width="220"> | 🔗 https://github.com/mr-command/authentication-ui |
+### Chatbot UI
+
+| Preview |
+|---------|
+| <img src="assets/pic.png" width="300"> 
+|🔗 https://github.com/mr-command/chatbot_ui |
+
+
+### Authentication UI
+
+| Preview |
+|---------|
+| <img src="assets/auth.jpeg" width="300"> 
+|🔗 https://github.com/mr-command/authentication-ui |
 
 
 ---
