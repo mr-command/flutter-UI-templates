@@ -15,8 +15,9 @@ Every project is a standalone Flutter application with clean architecture, reusa
 
 | Preview |
 |---------|
-| ![App Screenshot](assets/pic.png) |
-|🔗 https://github.com/mr-command/chatbot_ui |
+| ![App Screenshot](assets/chat.jpg) |
+
+|  🔗 https://github.com/mr-command/chatbot_ui   |
 
 
 ### Authentication UI
@@ -24,7 +25,8 @@ Every project is a standalone Flutter application with clean architecture, reusa
 | Preview |
 |---------|
 | ![App Screenshot](assets/auth.jpeg) |
-|🔗 https://github.com/mr-command/Authentication-ui |
+
+|  🔗 https://github.com/mr-command/Authentication-ui   |
 
 
 ---
